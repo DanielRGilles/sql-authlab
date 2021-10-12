@@ -1,26 +1,26 @@
 module.exports = [
   {
-    id: 3,
+    id: 1,
     todo: 'wash the dishes',
     completed: false,
-    user_id: 4
+    user_id: 1
   },
   {
-    id: 3,
+    id: 2,
     todo: 'wash the dish',
     completed: false,
-    user_id: 4
+    user_id: 1
   },
   {
     id: 3,
     todo: 'mash the dishes',
     completed: false,
-    user_id: 4
+    user_id: 1
   },
   {
-    id: 3,
+    id: 4,
     todo: 'crash the dishes',
     completed: false,
-    user_id: 4
+    user_id: 1
   }
 ];
